@@ -1,0 +1,7 @@
+model_name: Qwen/Qwen2.5-VL-3B-Instruct
+device: cuda
+dtype: bfloat16
+
+# Set this to a local image path, or override it with --image.
+image: /Users/wangyugong/Desktop/科研/VLA_basis/assets/vlm_test_VQA/cabinet.jpeg
+prompt: I want to find the soy sauce bottle. Describe the image and identify the object a robot should interact with.

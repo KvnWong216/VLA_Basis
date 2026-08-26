@@ -1,0 +1,13 @@
+accelerate>=0.34
+numpy>=1.26
+Pillow>=10.0
+PyYAML>=6.0
+qwen-vl-utils>=0.0.10
+torch>=2.2
+torchvision>=0.17
+transformers>=4.49
+safetensors>=0.4
+
+# Useful for later experiments and tests.
+matplotlib>=3.8
+pytest>=8.0
